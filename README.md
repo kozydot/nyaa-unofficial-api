@@ -1,6 +1,6 @@
 # Unofficial nyaa.si API Wrapper & Documentation
 
-This project provides an **unofficial API wrapper** and **OpenAPI documentation** for [nyaa.si](https://nyaa.si), a popular anime torrent index.
+This project provides an **unofficial API wrapper** [nyaa.si](https://nyaa.si), a popular anime torrent index.
 
 ---
 
